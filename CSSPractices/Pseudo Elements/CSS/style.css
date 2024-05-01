@@ -1,0 +1,23 @@
+.line::first-line{
+    color: red;
+    font-variant: small-caps;
+}
+.letter::first-letter{
+    color : red;
+    font-size:xx-large
+}
+.before::before{
+    content: url(brihadeeswarar_temple.jpg);
+   
+}
+.after::after{
+    content: url(brihadeeswarar_temple.jpg);
+}
+::marker{
+    color: red;
+    font-size : 200%;
+}
+::selection {
+    color: red;
+    background: yellow;
+  }

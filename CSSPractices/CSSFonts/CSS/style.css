@@ -1,0 +1,58 @@
+/* Font-Family*/
+.p1{
+    font-family: serif;
+}
+.p2{
+    font-family: sans-serif;
+}
+.p3{
+    font-family: monospace;
+}
+.p4{
+    font-family: cursive;
+}
+.p5{
+    font-family: fantasy;
+}
+
+/*Font style*/
+.fs1{
+    font-style: normal;
+}
+.fs2{
+    font-style: italic;
+}
+.fs3{
+    font-style: oblique;
+}
+
+/*Font Weight*/
+.fw1{
+    font-weight: normal;
+}
+.fw2{
+    font-weight: bold;
+}
+
+/*Font variant*/
+.fv1{
+    font-variant: normal;
+}
+.fv2{
+    font-variant: small-caps;
+}
+
+/*Font Size*/
+.fs1{
+    font-size: 1rem;
+}
+.fs2{
+    font-size: 1em;
+}
+.fs3{
+    font-size: 100%;
+}
+.fs4{
+    font-size: 16px;
+}
+

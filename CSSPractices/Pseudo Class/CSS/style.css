@@ -1,0 +1,15 @@
+.pc:link{
+    color: red
+}
+pc:visited{
+    color: green
+}
+pc:hover{
+    color: hotpink
+}
+pc:active{
+    color: blue
+}
+pc:focus{
+    color:black
+}

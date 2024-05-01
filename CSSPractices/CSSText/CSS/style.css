@@ -1,0 +1,57 @@
+/*Text Color*/
+.tc1{
+    color : red;
+}
+.tc2{
+    color : pink;
+}
+
+/*Text Alignment*/
+.ta1{
+    text-align: right;
+}
+.ta2{
+    text-align: left;
+}
+.ta3{
+    text-align: center;
+}
+.ta4{
+    text-align: justify;
+}
+
+/*Text transformation*/
+.tt1{
+    text-transform: lowercase;
+}
+.tt2{
+    text-transform: uppercase;
+}
+.tt3{
+    text-transform: capitalize;
+}
+
+/*text decoration */
+.tdl{
+    text-decoration-line: overline;
+    text-decoration-color: red;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 50%;
+}
+
+/*text spacing*/
+.ts1{
+    letter-spacing: 3rem;
+}
+.ts2{
+    word-spacing: 3rem;
+}
+.small{
+    line-height: 0.5;
+}
+.indent{
+    text-indent: 25%;
+}
+.shadow{
+    text-shadow: 2px 2px 2px rgb(196, 76, 76);
+}
