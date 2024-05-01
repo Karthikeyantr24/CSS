@@ -1,0 +1,61 @@
+.container{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;  
+    background-color: rgb(22, 22, 22);   
+    
+}
+ul{
+    list-style-type: none;
+    display: flex;   
+    
+}
+.logo1{
+    height: 2rem;
+    width: 15%;
+    right: 81%;
+   position: absolute;
+   top:2.5%;
+}
+li{
+    color: white;
+    align-content: center;
+   
+}
+.a1{
+    position: relative;
+    left: 15%;
+    
+}
+.a2{
+    position: relative;
+    left: 20%;
+}
+.a3{
+    position: relative;
+    left: 25%;
+}
+.a4{
+    position: relative;
+    left: 30%;
+}
+.a5{
+    position: relative;
+    left: 35%;
+}
+.b1{
+    position: relative;
+    left: 40%;
+    bottom:5%;
+    background: rgb(136, 179, 254);
+    height:30px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-weight: 600;
+
+}
+i{
+    position: relative;
+    left: 4%;
+}

@@ -1,0 +1,40 @@
+ .container{
+    display: flex;
+    width:100%;
+} 
+
+.round{
+    font-size: 200%;
+    width:25%;
+}
+.image1{
+    height:70%;
+    width:70%;
+    border-radius: 10px;   
+}
+.image2{
+    height:70%;
+    width:70%;
+    border-radius:50%;   
+}
+.image3{
+    border :2px solid rgba(132, 127, 195, 0.389);
+    padding: 5px;
+    height:70%;
+    width:70%;
+
+}
+.image4{
+    height:70%;
+    width:70%;
+    box-shadow: 0px 0px 12px 7px rgba(132, 127, 195, 0.389) ;
+    opacity: 1;
+    
+}
+.para{
+    position: absolute;
+    top: 230px;
+    left: 76%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,224 @@
+.image1{
+    width:10%;
+    height:35%;
+    margin-left: 2.8rem;
+    margin-top: 1rem;
+    border-radius: 4rem;
+   
+}
+.boldDesk{
+    font-weight:700;
+    font-size: 120%;
+
+}
+.logo{
+    display: flex;
+    margin-left: 3.5rem;
+}
+
+.para{
+    display: flex;
+    padding-left:0.3rem;
+    width:10%;
+    font-weight: 800;
+    color: rgb(1, 1, 53);
+}
+    /* .container{
+        display: flex;
+    } */
+.horizontal{
+    display: flex;
+    width:100%;
+    top:0;
+    padding:0;
+    position: fixed;
+   background-color: white;
+    z-index: 1;
+
+    /* background-color: rgb(137, 132, 132); */
+}
+li{
+    font-weight: 700;
+    font-size: 120%;
+    margin-left: 1.4rem;
+    margin-top: 1rem;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content:space-around;
+
+}
+a{
+    text-decoration: none;
+    color:rgb(1, 1, 53);
+    /* margin-left: 1.8rem; */
+}
+.btn1{
+    margin-left:14rem;
+    padding: 0.7rem;
+    margin-top: 1.5rem;
+    border:3px solid rgb(247, 91, 6);
+    border-radius: 0.8rem;
+    color: rgb(247, 91, 6);
+    background-color: white;
+    font-weight: 750;
+   
+}
+.btn2{
+    margin-left: 2rem;
+    padding: 0.7rem;
+    margin-top: 1.5rem;
+    border:none;
+    border-radius: 0.8rem;
+    color: white; 
+    background-color: rgb(247, 91, 6) ;
+    font-weight: 750;
+   
+
+}
+.paragraph{
+    text-align: center;
+    margin-top: 5rem;
+    
+}
+.touch{
+    font-size: 300%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(1, 1, 67);
+    line-height: 7rem;
+}
+.line{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(1, 1, 67);
+    font-size: 120%;
+    font-weight: 600;
+    display: absolute;
+    margin-top: 1rem;
+    line-height: 2rem;
+}
+.contact{
+    border: 1px solid black;
+    width:35rem;
+    border-radius: 3rem;
+    margin-left: 5rem;
+    height:15rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+    color: rgb(1, 1, 67);
+}
+
+.address{
+    position:relative;
+    margin-left: 1.5rem;
+    margin-top: 2.5rem;
+}
+.address1{
+    position:relative;
+    margin-left: 2rem;
+}
+.contact{
+    position: relative;
+    margin-top: 14rem;
+}
+.technical{
+    border: 1px solid black;
+    width:35rem;
+    border-radius: 3rem;
+    margin-left: 5rem;
+    height:12rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+    color: rgb(1, 1, 67);
+}
+.value{
+    position:relative;
+    margin-left: 1.5rem;
+    margin-top: 2.5rem;
+}
+.valiue1{
+    position:relative;
+    margin-left: 2rem;
+}
+.contactSupport{
+    color:rgb(247, 91, 6) ;
+}
+.technical{
+    position: relative;
+    margin-top: 5.5rem;
+}
+.chat{
+    border: 1px solid black;
+    width:35rem;
+    border-radius: 3rem;
+    margin-left: 5rem;
+    height:12rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+    color: rgb(1, 1, 67);
+}
+.chatValue{
+    position:relative;
+    margin-left: 1.5rem;
+    margin-top: 2.5rem;
+}
+.convo{
+    color:rgb(247, 91, 6) ;
+}
+.chatValiue1{
+    position:relative;
+    margin-left: 2rem;
+}
+.chat{
+    position: relative;
+    margin-top: 5.5rem;
+}
+.privacy{
+    color: rgb(7, 117, 243);
+}
+.left{
+    display: flex;
+    flex-direction: column;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    margin-left: 12rem;
+    margin-top: 15rem;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+}
+.form
+{
+   
+    margin-right: 14rem;
+    margin-top: 1rem;
+    border:1px solid black;
+    padding: 4rem;
+    padding-top: 3rem;
+    font-size: 110%;
+    width: 25rem;
+    height:35rem;
+}
+.form h2{
+    text-align: center;
+}
+.submit{
+    width: 23rem;
+    height: 2rem;
+    color: white;
+    background-color:rgb(247, 91, 6)  ;
+    border: none;
+    font-size: 1rem;
+
+}
+
+
+
+
+
